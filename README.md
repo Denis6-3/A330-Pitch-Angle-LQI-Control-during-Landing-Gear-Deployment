@@ -10,8 +10,6 @@
 
 ### Visual Demo: Pitch-Down Effect and LQI Correction
 
-### Visual Demo & Reference Frame
-
 <table width="100%">
   <tr>
     <td width="50%" align="center">
