@@ -10,12 +10,19 @@
 
 ### Visual Demo: Pitch-Down Effect and LQI Correction
 
+### Visual Demo & Reference Frame
+
 <table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/340bd9c0-e7fc-4a86-8b12-bee5ce76eb8a" width="350" alt="A330 Landing Gear Deployment and LQI Control GIF"/>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/340bd9c0-e7fc-4a86-8b12-bee5ce76eb8a" width="350" alt="A330 Landing Gear Deployment GIF"/>
       <br><br>
       <b>Fig 1.</b> Simulation of the A330 landing phase.
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/483b18c9-996e-43d7-b308-8bc861646036" width="350" alt="Aircraft body axes illustration"/>
+      <br><br>
+      <b>Fig 2.</b> Aircraft body axes and flight dynamics convention.
     </td>
   </tr>
 </table>
